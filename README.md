@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Mama Recipe Backend</h3>
   <p align="center">
-    <a href="https://github.com/VerdyNordsten/izipizy_backend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RezaldhoArmadhani/izipizy_backend"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://izipizybackend-production.up.railway.app/">View Demo</a>
     ·
@@ -113,7 +113,7 @@ API endpoint list are also available as published postman documentation
 - Clone This Back End Repo
 
 ```
-git clone https://github.com/VerdyNordsten/izipizy_backend.git
+git clone https://github.com/RezaldhoArmadhani/izipizy_backend.git
 ```
 
 - Go To Folder Repo
@@ -175,13 +175,13 @@ GOOGLE_DRIVE_PARENT_FOLDER=
 
 ## Related Project
 
-:rocket: [`Backend Mama Recipe`](https://github.com/VerdyNordsten/izipizy_backend)
+:rocket: [`Backend Mama Recipe`](https://github.com/RezaldhoArmadhani/izipizy_backend)
 
-:rocket: [`Frontend Mama Recipe`](https://github.com/VerdyNordsten/izipizy-FE)
+:rocket: [`Frontend Mama Recipe`](https://github.com/RezaldhoArmadhani/izipizy-FE)
 
 :rocket: [`Demo Mama Recipe`](https://jobhub.digty.co.id/)
 
-Project Link: [https://github.com/VerdyNordsten/izipizy_backend](https://github.com/VerdyNordsten/izipizy_backend)
+Project Link: [https://github.com/RezaldhoArmadhani/izipizy_backend](https://github.com/RezaldhoArmadhani/izipizy_backend)
 
 ## Meet Team
 
